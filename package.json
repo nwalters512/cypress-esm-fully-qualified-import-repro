@@ -1,0 +1,12 @@
+{
+  "name": "cypress-esm-fully-qualified-import-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nwalters512/cypress-esm-fully-qualified-import-repro.git",
+  "author": "Nathan Walters <nwalters512@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "cypress": "^12.12.0"
+  }
+}
