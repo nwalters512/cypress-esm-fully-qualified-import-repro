@@ -6,7 +6,9 @@
   "author": "Nathan Walters <nwalters512@gmail.com>",
   "license": "MIT",
   "private": true,
+  "type": "module",
   "dependencies": {
-    "cypress": "^12.12.0"
+    "cypress": "^12.12.0",
+    "typescript": "^5.0.4"
   }
 }
